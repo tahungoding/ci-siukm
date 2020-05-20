@@ -1,0 +1,10 @@
+.artikel-ellipsis p {
+  width: 100px;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  color: #000;
+}
