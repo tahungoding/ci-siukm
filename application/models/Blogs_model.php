@@ -106,13 +106,13 @@ class Blogs_model extends CI_Model {
 
         if ( ! $this->upload->do_upload('thumbnail'))
         {
-                $error = array('error' => $this->upload->display_errors());
+            $error = array('error' => $this->upload->display_errors());
 
                 $this->session->set_flashdata('error', $error['error']);
         }
         else
         {
-                return $this->upload->data('file_name');
+            return $this->upload->data('file_name');
         }
     }
 
