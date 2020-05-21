@@ -1,9 +1,13 @@
 <p align="center">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <img src="./assets/data/.github/siukm_logo.png?raw=true" width="80% alt="SIUKM Logo"/>
 =======
     <img src="./assets/data/.github/siukm_logo.png?raw=true" alt="SIUKM Logo"/>
 >>>>>>> Update readme.md
+=======
+    <img src="./assets/data/.github/siukm_logo.png?raw=true" width="80% alt="SIUKM Logo"/>
+>>>>>>> Update logo
 </p>
 
 ---
@@ -13,6 +17,9 @@
 <p align="center">SIUKM ini merupakan project open source pertama kami yang dibuat dengan menggunakan Codeigniter 3.11.</p>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Update logo
 <p align="center">
    <a href="https://github.com/tahungoding/siukm/network"><img src="https://img.shields.io/github/forks/tahungoding/siukm.svg" alt="GitHub forks"></a>
    <a href="https://github.com/tahungoding/ci-siukm/issues"><img src="https://img.shields.io/github/issues/tahungoding/siukm.svg" alt="GitHub issues"></a>  <img src="https://img.shields.io/github/stars/tahungoding/siukm.svg" alt="GitHub stars"></a>
@@ -30,6 +37,7 @@
 <br>
 dll.
  
+<<<<<<< HEAD
 ---
 
 ## ⚖️ License
@@ -38,5 +46,10 @@ dll.
 
 ## 📝 License
 >>>>>>> Update readme.md
+=======
+---
+
+## ⚖️ License
+>>>>>>> Update logo
 
 [MIT](https://github.com/tahungoding/ci-siukm/blob/master/LICENSE.md) © TAHUNGODING
