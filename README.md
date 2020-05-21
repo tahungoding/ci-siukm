@@ -11,6 +11,7 @@
 <p align="center">
    <a href="https://github.com/tahungoding/siukm/network"><img src="https://img.shields.io/github/forks/tahungoding/siukm.svg" alt="GitHub forks"></a>
    <a href="https://github.com/tahungoding/ci-siukm/issues"><img src="https://img.shields.io/github/issues/tahungoding/siukm.svg" alt="GitHub issues"></a>  <img src="https://img.shields.io/github/stars/tahungoding/siukm.svg" alt="GitHub stars"></a>
+   <a href="https://github.com/tahungoding/ci-siukm/graphs/contributors"><img src="https://img.shields.io/badge/all_contributors-1-orange.svg" alt="GitHub issues"></a>  <img src="https://img.shields.io/badge/all_contributors-1-orange.svg" alt="GitHub stars"></a>
    <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
